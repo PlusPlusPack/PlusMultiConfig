@@ -1,8 +1,8 @@
 Minimap: Enable
 Render Type: Surface
-Death Point: Disable
+Death Point: Enable
 Auto Update Check: Disable
-Map Shape: Square
+Map Shape: Round
 Texture: Rei Minimap
 Map Position: Upper Right
 Map Scale: Auto
@@ -16,7 +16,7 @@ Show Menu Key: Enable
 Font Scale: Auto
 Default Zoom: X1 0
 Mask Type: Depth
-Update Frequency: Middle
+Update Frequency: High
 Threading: Disable
 Thread Priority: Low
 Preloaded Chunks: Disable
@@ -28,7 +28,7 @@ Transparency: Enable
 Environment Color: Enable
 Omit Height Calc: Enable
 Hide Snow: Disable
-Show Chunk Grid: Disable
+Show Chunk Grid: Enable
 Show Slime Chunk: Disable
 Entities Radar: Disable
 Entity Player: Enable
